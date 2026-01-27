@@ -5,7 +5,6 @@
 ## 🚀 About Me
 - 💻 I’m a developer working on **Next.js, React, Node.js, and Payload CMS**
 - 🛠️ I specialize in **web and mobile app development**
-- 🌱 Currently learning **Mobile Apps designing**
 
 ---
 
